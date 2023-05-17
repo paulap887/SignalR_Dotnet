@@ -1,4 +1,3 @@
-# SignalR_Dotnet
 # Real-Time Dashboard with SignalR
 
 This project demonstrates a real-time dashboard using SignalR, a library for real-time communication between server and client applications.
